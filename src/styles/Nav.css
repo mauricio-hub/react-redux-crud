@@ -1,0 +1,31 @@
+.left {
+    float: left;
+    list-style: none;
+    display: flex;
+
+}
+.left
+.iconoMenu {
+    font-size: 20px;
+    color: white;
+    margin: 20px;
+}
+
+.title{
+    font-size: 18px;
+    color:white;
+    font-weight: bold;
+}
+
+.rigth{
+    float: right;
+    list-style: none;
+    display: flex;
+    padding-right:30px ;
+}
+.title-rigth{
+    color: white;
+}
+
+
+
